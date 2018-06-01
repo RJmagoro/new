@@ -1,0 +1,91 @@
+.nav{
+    height:100px ;
+    background-color: blue;
+}
+.nav ul li {
+    float: right;
+    color:white;
+    display: block;
+    margin-left: 20px;
+    border: 1px solid;
+
+
+}
+.nav ul li a{
+    color:red;
+}
+
+
+
+h1{
+    text-align: center;
+}
+ta,th,td{
+    border: 5px solid red;
+}
+
+table{
+    margin: auto;
+    width:50%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.div1 p{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: orange;
+    
+    
+}
+.div1{
+    margin: auto;
+    width: 50%;
+
+}
+footer{
+    border: 1px groove #aaaaaa;
+    background:palegreen;
+    color:blue;
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    vertical-align: middle;
+    text-align: center;
+    line-height: normal;
+    padding: 0;
+    
+
+}
+#center{
+    text-align: center;
+    justify-content: center;
+}
+#border{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+#name,#email{
+    width: 100%;
+
+}
+
+#message{
+    margin-bottom: 10px;
+    width: 100%;
+    height: 400px;
+}
+#button{
+    width: 100%;
+    background-color: chocolate;
+    color: white;
+    
+}
